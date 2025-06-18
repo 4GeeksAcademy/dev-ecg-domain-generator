@@ -1,5 +1,5 @@
 import "bootstrap";
-import "./style.css";
+
 
 
 import "./assets/img/rigo-baby.jpg";
